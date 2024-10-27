@@ -1,0 +1,35 @@
+# Project License
+
+## Halloween Multiplayer Game License
+
+This project is licensed under the MIT License with additional attributions.
+
+### License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
+
+1. **Acknowledgments**:
+   - We have utilized **Claude** for initial guidance in developing the client-server networking code used within this project.
+   - This project is currently in a development phase, and features are subject to change as the game is refined and optimized.
+
+2. **Third-Party Tools and Generative AI**:
+   - This project includes graphical assets and background edits created with the help of the following tools:
+     - [**Remove.bg**](https://www.remove.bg/): Used for background removal to allow characters to seamlessly integrate with game backgrounds.
+     - [**Pixlr**](https://pixlr.com/): Utilized for AI-based image editing and prompt generation.
+     - [**Luma Labs**](https://lumalabs.ai/): Experimented with this tool for in-game animation, although ultimately it was not incorporated into the final design.
+     - [**Adobe**](https://adobe.com): Used to create the primary bot characters, with blue and green color themes, using basic shapes and a rectangular design.
+     - [**PhotoRoom**](https://www.photoroom.com/tools/remove-object-from-photo): Used to remove unwanted elements from specific images without altering the background.
+   - Generative AI was used to help frame the structure and design of certain elements, which were then customized and enhanced with original elements.
+
+3. **Modifications and Distribution**:
+   - Users may modify, distribute, and build upon this project for personal and commercial use as long as they provide appropriate credit, indicating if changes were made.
+   - Modifications must not imply endorsement by the original creators.
+
+4. **Warranty Disclaimer**:
+   - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For more details, refer to the MIT License documentation.
+
+---
+
+This license covers the use of third-party tools, acknowledges AI contributions, and retains flexibility for users to modify and distribute the project as per the MIT License terms.
