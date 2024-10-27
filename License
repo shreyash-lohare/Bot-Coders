@@ -1,35 +1,74 @@
-# Project License
+# 🎃 Project License for Phantom Frenzy 🎃
 
-## Halloween Multiplayer Game License
+## License Overview
 
-This project is licensed under the MIT License with additional attributions.
-
-### License
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
-
-1. **Acknowledgments**:
-   - We have utilized **Claude** for initial guidance in developing the client-server networking code used within this project.
-   - This project is currently in a development phase, and features are subject to change as the game is refined and optimized.
-
-2. **Third-Party Tools and Generative AI**:
-   - This project includes graphical assets and background edits created with the help of the following tools:
-     - [**Remove.bg**](https://www.remove.bg/): Used for background removal to allow characters to seamlessly integrate with game backgrounds.
-     - [**Pixlr**](https://pixlr.com/): Utilized for AI-based image editing and prompt generation.
-     - [**Luma Labs**](https://lumalabs.ai/): Experimented with this tool for in-game animation, although ultimately it was not incorporated into the final design.
-     - [**Adobe**](https://adobe.com): Used to create the primary bot characters, with blue and green color themes, using basic shapes and a rectangular design.
-     - [**PhotoRoom**](https://www.photoroom.com/tools/remove-object-from-photo): Used to remove unwanted elements from specific images without altering the background.
-   - Generative AI was used to help frame the structure and design of certain elements, which were then customized and enhanced with original elements.
-
-3. **Modifications and Distribution**:
-   - Users may modify, distribute, and build upon this project for personal and commercial use as long as they provide appropriate credit, indicating if changes were made.
-   - Modifications must not imply endorsement by the original creators.
-
-4. **Warranty Disclaimer**:
-   - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-For more details, refer to the MIT License documentation.
+This project is licensed under the **MIT License**, which is a permissive free software license. This allows for wide usage and modification while providing certain conditions and acknowledgments to the original creators and contributors. 
 
 ---
 
-This license covers the use of third-party tools, acknowledges AI contributions, and retains flexibility for users to modify and distribute the project as per the MIT License terms.
+## 1. Permissions
+
+Under the MIT License, any individual or organization obtaining a copy of this software and its associated documentation files (collectively referred to as the "Software") is granted the following rights:
+
+- **Use**: You may run the Software for personal, educational, or commercial purposes.
+- **Copy**: You may make copies of the Software for distribution, either in its original form or as modified versions.
+- **Modify**: You may alter the Software's source code to create derivative works.
+- **Merge**: You may integrate the Software with other projects or codebases.
+- **Publish**: You may distribute copies of the Software publicly.
+- **Sublicense**: You may grant rights to others under the terms of this license.
+- **Sell**: You may sell copies of the Software.
+
+These rights are granted without restriction, except for the conditions detailed below.
+
+---
+
+## 2. Acknowledgments & Credits
+
+### Special Acknowledgment
+
+- **Claude**: This project has benefited from the assistance of **Claude**, an AI tool, which provided initial guidance in the development of the client-server networking code used within the game. This contribution significantly helped streamline the networking architecture.
+
+### Third-Party Tools & Generative AI
+
+This project employs a variety of third-party tools and generative AI applications to enhance its graphical and functional aspects. Below are the tools utilized, along with their specific contributions:
+
+- **[Remove.bg](https://www.remove.bg/)**: This tool was instrumental in background removal, allowing characters to be integrated seamlessly into various game environments. By eliminating backgrounds, it ensures that assets blend smoothly within the game’s visual context.
+
+- **[Pixlr](https://pixlr.com/)**: Utilized for AI-driven image editing and prompt generation, Pixlr helped refine graphical assets and improve their visual appeal through easy-to-use editing tools.
+
+- **[Luma Labs](https://lumalabs.ai/)**: This tool was explored for in-game animation, though it ultimately did not make it into the final design. Experimentation with Luma Labs provided insights into animation techniques, which informed later decisions about animations created within the game.
+
+- **[Adobe](https://adobe.com)**: Adobe software was used to design the primary bot characters featured in the game. The software facilitated the creation of visually distinct characters utilizing blue and green color themes, employing basic shapes to maintain a consistent aesthetic.
+
+- **[PhotoRoom](https://www.photoroom.com/tools/remove-object-from-photo)**: This tool enabled the removal of unwanted elements from specific images while preserving the integrity of the background. This was particularly useful for refining visual assets used within the game.
+
+- **Generative AI**: AI was leveraged to help frame the structural design of various game elements, from character concepts to level designs. Initial drafts produced by generative AI were customized and enhanced with original elements, resulting in a more unique and cohesive game experience.
+
+---
+
+## 3. Modifications and Distribution
+
+Users are permitted to modify, distribute, and build upon this project for both personal and commercial use, under the following conditions:
+
+- **Attribution**: Users must provide appropriate credit to the original creators of the Software. This includes acknowledgment of the use of third-party tools and AI contributions.
+
+- **Indication of Changes**: If modifications are made to the original Software, users must clearly indicate the nature of the changes. This helps maintain transparency and informs future users about alterations.
+
+- **No Endorsement**: Modifications must not imply any endorsement by the original authors. This ensures that the integrity of the original creators' reputation is maintained.
+
+---
+
+## 4. Warranty Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### Important Note:
+- Users are encouraged to test the Software thoroughly in their own environments. While we strive for quality and functionality, we cannot guarantee that the Software will meet all user needs or be error-free.
+
+---
+
+For more details regarding the terms of the MIT License, please refer to the official [MIT License documentation](https://opensource.org/licenses/MIT).
+
+---
+
+This license covers the use of third-party tools, acknowledges the contributions of generative AI, and retains flexibility for users to modify and distribute the project in accordance with the MIT License terms. By using this Software, you agree to the terms outlined above.
